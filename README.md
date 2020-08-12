@@ -12,6 +12,8 @@
 
 A fast and powerful URL Shortener built with Laravel, VueJS, and Tailwind CSS.
 
+![Tinre](http://media.devpri.com/tinre/tinre.gif)
+
 ## Installation
 
 1. Run `composer create-project devpri/tinre`.
