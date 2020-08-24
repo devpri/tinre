@@ -1,11 +1,14 @@
 {
     "name": "devpri/tinre",
     "type": "project",
-    "description": "Open Source URL Shortener",
+    "description": "A fast and powerful Laravel URL Shortener.",
     "keywords": [
+        "laravel-url-shortener",
         "url-shortener",
         "url",
-        "laravel"
+        "laravel",
+        "devpri",
+        "tinre"
     ],
     "license": "MIT",
     "require": {
