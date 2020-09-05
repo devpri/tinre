@@ -3,6 +3,7 @@
 <p align="center">
 <a href="https://github.com/devpri/tinre-core/actions"><img alt="GitHub Tests" src="https://github.com/devpri/tinre-core/workflows/tests/badge.svg"></a>
 <a href="https://scrutinizer-ci.com/g/devpri/tinre-core/"><img alt="Scrutinizer code quality" src="https://img.shields.io/scrutinizer/quality/g/devpri/tinre-core/master"></a>
+<a href="https://scrutinizer-ci.com/g/devpri/tinre-core/"><img alt="Scrutinizer coverage" src="https://scrutinizer-ci.com/g/devpri/tinre-core/badges/coverage.png?b=master"></a>
 <a href="https://github.styleci.io/repos/285526567"><img alt="StyleCI" src="https://github.styleci.io/repos/285526567/shield"></a>
 <a href="https://packagist.org/packages/devpri/tinre"><img alt="Packagist" src="https://poser.pugx.org/devpri/tinre/v"></a>
 <a href="https://github.com/devpri/tinre/blob/master/LICENSE.md"><img alt="GitHub" src="https://img.shields.io/github/license/devpri/tinre"></a>
